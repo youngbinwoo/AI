@@ -19,4 +19,14 @@
 
 ## Games 
 ### 5-1) joint    [CODE](https://github.com/youngbinwoo/AI/tree/master/Game/blackjack)
-### 5-2) blackjack    [CODE](https://github.com/youngbinwoo/AI/tree/master/Game/joint)
+### 5-2) blackjack    [CODE](https://github.com/youngbinwoo/AI/tree/master/Game/joint)    
+
+
+## Computer Vision  
+#### 1. Computer Vision1    [CODE](https://github.com/youngbinwoo/AI/blob/master/Computer%20Vision/Computer%20Vision1.ipynb)  
+#### 2. Computer Vision2     [CODE](https://github.com/youngbinwoo/AI/blob/master/Computer%20Vision/Computer%20Vision2.ipynb)
+
+
+
+## Natural Language Processing   
+#### 1. Natural Language Processing    [CODE](https://github.com/youngbinwoo/AI/tree/master/Natural%20Language%20Processing)  
