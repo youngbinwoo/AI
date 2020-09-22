@@ -1,6 +1,6 @@
 # AI   
-AI(Deep Learning, Computer Vision, Natural Language Processing)   
-AI의 기본적인 개념에 대해 공부합니다. 
+- AI(Deep Learning, Computer Vision, Natural Language Processing)   
+- AI의 기본적인 개념에 대해 공부합니다. 
 
 
 ## Deep Learning    
